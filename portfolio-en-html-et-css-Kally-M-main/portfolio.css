@@ -1,0 +1,97 @@
+header{
+  display: flex;
+  justify-content:space-between;
+}
+img{
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+}
+main{
+  display: flex;
+  margin-top: 120px;
+  justify-content: center; 
+}
+.about-text{
+  padding: 20px;
+  width: 300px;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+}
+body{
+  padding: 40px;
+}
+.container{
+  display: flex;
+}
+.buttons {
+  display: flex;
+  text-decoration: none;
+  width: 40px;
+
+}
+a{
+  text-decoration: none;
+  padding: 10px;
+}
+.child1{ padding: 40px;
+  border-radius: 50%;
+  background-color: rgb(244, 185, 8);
+  margin-left: 10px;
+  
+
+}
+.child2{padding: 40px;
+  background-color: red;
+  border-radius: 50%;
+  margin-left: 10px;
+ 
+}
+.child3{
+  padding: 40px;
+  background-color: aqua;
+  border-radius: 50%;
+
+  margin-left: 10px;
+ 
+}
+.buttons{display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.containe{
+  padding: 40px;
+}
+
+h2{
+  margin-bottom: 60px;
+}
+section{display: flex;
+padding: 60px;}
+button{
+  padding: 40px;
+  border-radius: 50%;
+  background-color: rgb(244, 185, 8);
+  margin-top: 40px;
+
+}
+textarea{
+  width: 250px;
+  height: 200px;
+  margin-right: 10px;
+}
+input{
+  height: 20px;
+  width: 150px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.contact-form{
+  display:block;
+}
+.column1{
+  margin-right: 190px;
+}
+
